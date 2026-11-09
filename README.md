@@ -1,6 +1,6 @@
 # Overcam
 
-English | [Русский](README.ru.md)
+English | [Русский](README.ru.md) | [Website](https://bluecheddar.app/overcam/)
 
 Webcams from a Discord call, shown over your game.
 
