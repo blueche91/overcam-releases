@@ -1,5 +1,7 @@
 # Overcam
 
+English | [Русский](README.ru.md)
+
 Webcams from a Discord call, shown over your game.
 
 Open a friend's video in Discord with **Pop Out**, and Overcam shows it as a small box on top
