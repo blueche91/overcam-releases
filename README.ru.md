@@ -1,6 +1,6 @@
 # Overcam
 
-[English](README.md) | Русский
+[English](README.md) | Русский | [Сайт](https://bluecheddar.app/overcam/ru/)
 
 Вебки из звонка Discord поверх игры.
 
