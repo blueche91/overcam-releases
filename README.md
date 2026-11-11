@@ -62,6 +62,11 @@ talks to discord.com to sign in. Nothing else is sent.
 Get `Overnook.exe` from the [latest release](https://github.com/blueche91/overnook-releases/releases/latest)
 and run it. It is a single file; settings are kept in `%APPDATA%\Overnook`.
 
+`Overnook.exe.sig` next to it is for the built-in updater: it holds the exe's SHA-256 and a
+signature, and Overnook installs an update only if the signature matches. You do not need to
+download it. To check a download by hand, compare the first line of the `.sig` file with
+`Get-FileHash Overnook.exe` in PowerShell (letter case does not matter).
+
 Windows may show "Windows protected your PC" for a new app: click **More info**, then **Run anyway**.
 
 ## Use
